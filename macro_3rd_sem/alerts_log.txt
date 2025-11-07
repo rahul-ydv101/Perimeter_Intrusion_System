@@ -1,0 +1,7 @@
+[ALERT] Object 0 ENTERED perimeter at 2025-11-07 01:35:17
+[ALERT] Object 0 ENTERED perimeter at 2025-11-07 01:35:22
+[ALERT] Object 0 ENTERED perimeter at 2025-11-07 01:35:22
+[ALERT] Object 0 ENTERED perimeter at 2025-11-07 01:35:24
+[ALERT] Object 0 ENTERED perimeter at 2025-11-07 01:35:25
+[ALERT] Object 0 ENTERED perimeter at 2025-11-07 01:35:25
+[ALERT] Object 0 ENTERED perimeter at 2025-11-07 01:35:25

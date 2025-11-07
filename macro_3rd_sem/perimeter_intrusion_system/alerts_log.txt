@@ -1,0 +1,16 @@
+[ALERT] Object 0 ENTERED perimeter at 2025-11-07 01:39:23
+[ALERT] Object 1 ENTERED perimeter at 2025-11-07 01:39:28
+[ALERT] Object 1 ENTERED perimeter at 2025-11-07 01:39:33
+[ALERT] Object 2 ENTERED perimeter at 2025-11-07 01:39:38
+[ALERT] Object 0 ENTERED perimeter at 2025-11-07 01:41:57
+[ALERT] Object 0 ENTERED perimeter at 2025-11-07 01:42:01
+[ALERT] Object 0 ENTERED perimeter at 2025-11-07 01:43:37
+[ALERT] Object 0 ENTERED perimeter at 2025-11-07 01:43:37
+[ALERT] Object 0 ENTERED perimeter at 2025-11-07 01:43:37
+[ALERT] Object 0 ENTERED perimeter at 2025-11-07 01:43:37
+[ALERT] Object 0 ENTERED perimeter at 2025-11-07 01:43:38
+[ALERT] Object 0 ENTERED perimeter at 2025-11-07 01:43:38
+[ALERT] Object 0 ENTERED perimeter at 2025-11-07 01:43:39
+[ALERT] Object 0 ENTERED perimeter at 2025-11-07 01:43:40
+[ALERT] Object 0 ENTERED perimeter at 2025-11-07 01:43:43
+[ALERT] Object 0 ENTERED perimeter at 2025-11-07 01:43:55
