@@ -7,13 +7,13 @@ This project allows users to draw a virtual boundary (tripwire) on live or recor
 
 ## 🚀 Features
 
-- 🧠 Real-time object detection using **MobileNet-SSD**  
+- 🧠 Real-time object detection using **MobileNet-SSD**  single shot detector --> identification
 - 🎯 Virtual boundary (polygon) drawing with mouse input  
 - 🚨 Instant intrusion alerts with red marking  
 - 📸 Automatic snapshot and event log saving  
 - 📁 Local storage for logs and captured images  
 - ⚙️ Modular, object-oriented design for easy customization  
-- 🔄 Ready for integration with **YOLO**, **Deep SORT**, or web platforms  
+- 🔄 Ready for integration with **YOLO**, **Deep SORT** advanced object tracking algorithm, or web platforms  
 
 ---
 
